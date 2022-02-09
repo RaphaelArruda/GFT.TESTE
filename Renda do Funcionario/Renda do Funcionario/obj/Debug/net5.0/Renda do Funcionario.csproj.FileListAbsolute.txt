@@ -1,0 +1,16 @@
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\bin\Debug\net5.0\Renda do Funcionario.exe
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\bin\Debug\net5.0\Renda do Funcionario.deps.json
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\bin\Debug\net5.0\Renda do Funcionario.runtimeconfig.json
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\bin\Debug\net5.0\Renda do Funcionario.runtimeconfig.dev.json
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\bin\Debug\net5.0\Renda do Funcionario.dll
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\bin\Debug\net5.0\ref\Renda do Funcionario.dll
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\bin\Debug\net5.0\Renda do Funcionario.pdb
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\Renda do Funcionario.csproj.AssemblyReference.cache
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\Renda do Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\Renda do Funcionario.AssemblyInfoInputs.cache
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\Renda do Funcionario.AssemblyInfo.cs
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\Renda do Funcionario.csproj.CoreCompileInputs.cache
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\Renda do Funcionario.dll
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\ref\Renda do Funcionario.dll
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\Renda do Funcionario.pdb
+D:\Dev\TesteGFT-RaphaelArruda\Renda do Funcionario\Renda do Funcionario\Renda do Funcionario\obj\Debug\net5.0\Renda do Funcionario.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Renda do Funcionario/1.0.0": {
+        "runtime": {
+          "Renda do Funcionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Renda do Funcionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
