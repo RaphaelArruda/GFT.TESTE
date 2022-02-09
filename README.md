@@ -1,2 +1,2 @@
 # GFT.TESTE
-Teste GFT 
+Teste GFT realizado dia 09/02/2022
